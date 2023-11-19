@@ -48,7 +48,9 @@ J'interviens dans de nombreux domaines différents, je maîtrise de **multiples 
 
 
 <p align='center'>
-    <strong>Envie d'en savoir plus ou de travailler ensemble ? C'est juste en dessous 🤙</strong>
+    <strong><em>
+        Envie d'en savoir plus ou de travailler ensemble ? C'est juste en dessous 🤙
+    </em></strong>
 </p>
 
 <!-- Social & useful links -->
@@ -83,7 +85,12 @@ J'interviens dans de nombreux domaines différents, je maîtrise de **multiples 
 
 Je suis également le co-fondateur de **Monsieur Biche**, société ayant pour objectif d'**accompagner les start-ups et entreprises innovantes dans la réalisation de leurs projets**. Nos points forts ? Une approche non conventionnelle permettant une grande flexibilité horaire et financière, un **accompagnement sur mesure dans la durée** et **tout un réseau d'experts** pour couvrir un maximum de domaines techniques.
 
-Quel que soit votre besoin, n'hésitez pas à nous contacter via l'un des liens ci-dessous&nbsp;!
+
+<p align='center'>
+    <strong><em>
+        Quel que soit votre besoin, n'hésitez pas à nous contacter via l'un des liens ci-dessous&nbsp;!
+    </em></strong>
+</p>
 
 <!-- Social & useful links -->
 <p align='center'>
