@@ -17,7 +17,7 @@
 
 J'aime participer à toutes les étapes de réalisation d'une solution, évaluer la pertinence d'une architecture, débattre du choix d'une technologie ou d'une approche, et surtout tout faire pour assurer la réussite d'un projet 🚀
 
-J'interviens dans de nombreux domaines différents, je maîtrise de **multiples technologies / languages de programmation** et j'aime apprendre constamment de nouvelles choses 🤓 Je conçois donc depuis plusieurs années des **applications mobiles, des logiciels sur mesure, des applications et sites web, des APIs, des solutions DevOps**, etc.
+J'interviens dans de nombreux domaines différents, je maîtrise de **multiples technologies / langages de programmation** et j'aime apprendre constamment de nouvelles choses 🤓 Je conçois donc depuis plusieurs années des **applications mobiles, des logiciels sur mesure, des applications et sites web, des APIs, des solutions DevOps**, etc.
 
 <details> 
 	<summary><strong>« Je veux en savoir plus 👀 »</strong></summary>
@@ -95,7 +95,7 @@ Je suis également le co-fondateur de **Monsieur Biche**, société ayant pour o
 <!-- Social & useful links -->
 <p align='center'>
     <!-- LinkedIn -->
-    <a href='https://www.linkedin.com/monsieur-biche' title='Page LinkedIn de Monsieur Biche'>
+    <a href='https://www.linkedin.com/company/monsieur-biche' title='Page LinkedIn de Monsieur Biche'>
         <img src="https://img.shields.io/badge/LinkedIn-1971c2?style=for-the-badge&logo=linkedin&logoColor=white" alt='Badge LinkedIn' />
     </a>
     <!-- Website -->
@@ -111,7 +111,7 @@ Je suis également le co-fondateur de **Monsieur Biche**, société ayant pour o
 <hr />
 <h3 align='center'><strong>Formations</strong></h3>
 
-💻 [**...**] Diverses formations dans le cadre professionnel : **Ansible, Docker, Kubernetes, NestJS**, ...  
+💻 [**Divers**] Formations dans le cadre professionnel : **Ansible, Docker, Kubernetes, NestJS**, ...  
 🎓 [**Bac +5**] Diplôme d'Ingénieur en **Informatique et Réseaux de Communication** - CPE Lyon  
 🎓 [**Bac +2**] Diplôme Universitaire de Technologie en **Informatique** - Université Lyon 1  
 
@@ -122,7 +122,7 @@ Je suis également le co-fondateur de **Monsieur Biche**, société ayant pour o
 
 #### 🟩 Expérience ✍️
 
-J'ai évolué pendant 5 ans dans la société **Apitech**, une ESN Lyonnaise spécialisée dans les logiciels sur mesure et les plateformes de services. J'ai pu intervenir sur de nombreux projets et sujets très formateurs, aux technologies et contextes variés. J'ai donc été tour à tour **développeur logiciel, mobile, web, puis backend/frontend, mais aussi ingénieur DevOps et architecte technique**. Très vite, j'ai fait partie des équipes projet/décisionnelles, participant alors à la **conception de nouvelles solutions**, à l'expression du besoin pour les clients, et à la **gestion de projet**. Malgré une part importante de travail en totale autonomie, le travail en équipe n'a plus de secret pour moi, j'ai même eu l'opportunité de **diriger une équipe de développeurs durant la réalisation d'un projet** très conséquent.
+J'ai évolué pendant 5 ans dans la société **Apitech**, une ESN Lyonnaise spécialisée dans les logiciels sur mesure et les plateformes de services. J'ai pu intervenir sur de nombreux projets et sujets très formateurs, aux technologies et contextes variés. J'ai donc été tour à tour **développeur logiciel, mobile, web, puis backend/frontend, mais aussi ingénieur DevOps, consultant spécialisé et architecte technique**. Très vite, j'ai fait partie des équipes projet/décisionnelles, participant alors à la **conception de nouvelles solutions**, à l'expression du besoin pour les clients, et à la **gestion de projet**. Malgré une part importante de travail en totale autonomie, le travail en équipe n'a plus de secret pour moi, j'ai même eu l'opportunité de **diriger une équipe de développeurs durant la réalisation d'un projet** conséquent.
 
 #### 🟩 Recommandations 💬
 
